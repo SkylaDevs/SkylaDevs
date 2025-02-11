@@ -54,6 +54,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SkylaDevs/SkylaDevs/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkylaDevs&radius=16&theme=github-dark-dimmed&area=true&order=5&custom_title=My%20Activity&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
