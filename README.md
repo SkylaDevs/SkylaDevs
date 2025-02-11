@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Skyla from the UK.<br><br>- 🖥️ Currently working on BlockPoll<br>- 1️⃣ Solo dev<br>- 🥱 Tired single full time dad</p>
+<p align="left">I'm Skyla from the UK.<br><br>- 🖥️ Currently working on <a href='https://blockpoll.io'><b>BlockPoll</b></a><br>- 1️⃣ Solo dev<br>- 🥱 Tired single full time dad</p>
 
 ###
 
