@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://i.imgur.com/MoCTOcb.jpeg"  />
+  <a href='https://blockpoll.io'><img height="300" src="https://i.imgur.com/MoCTOcb.jpeg"  /></a>
 </div>
 
 ###
